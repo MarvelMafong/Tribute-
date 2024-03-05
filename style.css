@@ -1,0 +1,19 @@
+body {
+    background-color: lime;
+}
+
+.header {
+    text-align: center;
+}
+
+.legacy li {
+    list-style-type: none;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img{
+    width: 200px;
+}
